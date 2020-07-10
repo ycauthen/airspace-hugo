@@ -71,7 +71,7 @@ funfacts:
   - icon: ion-ios-compose-outline
     name: Projects Completed
     count: "125"
-  - icon: ion-ios-timer-outline
+  - icon: ion-ios-time-outline
     name: Combined Projects
     count: "200"
   testimonial_slider:

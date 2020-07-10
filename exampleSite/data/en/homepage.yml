@@ -65,7 +65,7 @@ funfacts:
   - icon: ion-ios-home-outline
     name: Transactions Closed
     count: "10"
-  - icon: icon-ios-bar-chart-outline
+  - icon: cash-outline
     name: Years in Business
     count: "45"
   - icon: ion-ios-compose-outline

@@ -68,8 +68,8 @@ funfacts:
   - icon: ion-ios-chatboxes-outline
     name: Cups Of Coffee
     count: "99"
-  - icon: ion-ios-glasses-outline
-    name: Article Written
+  - icon: icon-ios-stats-outline
+    name: Years in Business
     count: "45"
   - icon: ion-ios-compose-outline
     name: Projects Completed

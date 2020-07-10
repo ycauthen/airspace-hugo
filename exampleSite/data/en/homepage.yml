@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
-  bg_overlay: true
+  bg_image: images/dsc08311.jpg
+  bg_overlay: false
   title: 'Tommy Garabedian-Cone <br/> '
   content: We love the Web and the work we do.We work closely with our clients to
     deliver  the best possible solutions for their needs

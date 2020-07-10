@@ -3,10 +3,48 @@ about:
   enable: true
   image: images/company/about.jpg
   title: We strive to be the best and <br> make awesome work.
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, neque!
+  content: "Sara\n\nFor over three decades, Sara has closed over 500 buy and sell
+    transactions throughout the San Francisco East Bay.\n\nSara has worked hard to
+    earn a reputation as a top producer, and her experience and success place her
+    among the highest ranking agents in the Bay Area year after year.  She has worked
+    with award-winning architects and developers as well as singles and families looking
+    for the perfect home.  In addition to specalizing in residential, commercial,
+    and trust/probate properties, she has a highly developed expertise in the areas
+    of mixed-use condominium projects and live/work lofts.    She prides herself on
+    helping clients overcome the complexities of non-conforming transactions and unusual
+    properties. \n\nStarting her studies at UC Santa Barbara, Sara spent 2 years abroad.
+    \ She returned to complete a BA in French and begin her career as a Realtor.  When
+    not engaged in real estate, Sara can be found enjoying her hobby as an amateur
+    photographer.\n\nTommy\n\nTommy has deep roots in real estate, with a family tree
+    of over 70 years of combined experience as East Bay realtors.  He has developed
+    a diverse range of real estate experience in the US and China, having worked for
+    Colliers International Beijing and an international retail mall developer in Shanghai.
+    \ Tommy graduated from Occidental College with degrees in Economics & Chinese
+    and spends his free time playing competitve paintball.  He is fluent in Mandarin
+    Chinese.\n\nGarabedian Associates\n\nTogether, Sara and Tommy will grow their
+    focus on residential, commercial, multifamily, and vacant land real estate sales
+    including a highly specialized niche market of boutique development projects of
+    30 units and under.  \n\nWest Oakland/Emeryville listing and marketing experience
+    includes: \n\nBlue Cap Lofts, an 11­-unit mixed-­use warehouse conversion in West
+    Oakland \n\nCigar Factory Lofts, a 7­-unit loft warehouse conversion in West Oakland
+    \n\nWillow Court Lofts, an 18-­unit loft warehouse conversion in West Oakland
+    \ \n\nLinden Terrace, an 8­-unit townhouse project in West Oakland  \n\nWest Street
+    Lofts, a 6-­unit warehouse conversion in West Oakland \n\nMagnolia Lofts, a 12­-unit
+    warehouse conversion in West Oakland \n\nGateway Commons, a 17­-unit mixed ­use
+    project on the Oakland/Emeryville border  \n\nThe last 19 developer ­held units
+    of the 51-­unit Besler Building Lofts in Emeryville  \n\nThe last 7 developer­
+    held Horton St. Lofts in Emeryville, numerous condominium lofts in West Oakland
+    including the Filbert St. Lofts, Calou Lofts, Myrtle St. Studios and Baysde Court
+    Lofts\n\nCommercial warehouse, vacant land, and multifamily experience includes:\n\n3529
+    Peralta St, West Oakland - 11,000+ sf vacant lot zoned HBX-2. Sold to mixed-use
+    developer.\n\n863 27th St, West Oakland - 5,000sf vacant lot zoned RM-3. Sold
+    to residential developer.\n\n2306 Magnolia St, West Oakland - Warehouse on 6,000+sf
+    lot zoned HBX-4. Sold to mixed-use developer.\n\n377 - 381 5th St, Oakland, Jack
+    London Square - 9,500sf brick & timber building with adjacent 5,500sf lot zoned
+    C-45. Sold to mixed-use developer.\n\n5776 - 5880 Doyle St, Emeryville - Two adjacent
+    5,000sf parcels consiting of two (2) triplexes and one (1) duplex all delivered
+    vacant. Sold to a multi-family developer.\n\n1515 Ohio Ave, Richmond - 2,500+sf
+    warehouse on 6,600+ sf lot. Sold to owner/user."
   button:
     enable: false
     label: Download Company Profile
@@ -30,6 +68,7 @@ about:
   - icon: ion-ios-body-outline
     name: Awards Winner
     count: "20"
+  description: 'test description '
 features:
   enable: false
   title: We are indepented Design & Development Agency

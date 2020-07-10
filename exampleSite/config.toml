@@ -84,7 +84,7 @@ google_analitycs_id = ""
 location = "North Main Street,Brooklyn Australia"
 logo = "images/logo.png"
 mobile = "0124857985320"
-multi_author = false
+multi_author = true
 [params.gmap]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"

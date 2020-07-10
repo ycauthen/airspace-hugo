@@ -62,7 +62,7 @@ funfacts:
   - icon: ion-ios-cash-icon
     name: Sales Volume
     count: "150"
-  - icon: ion-icon-home-outline
+  - icon: ion-ios-home-outline
     name: Transactions Closed
     count: "10"
   - icon: ion-ios-chatboxes-outline

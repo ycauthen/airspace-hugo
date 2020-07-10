@@ -65,10 +65,7 @@ funfacts:
   - icon: ion-ios-home-outline
     name: Transactions Closed
     count: "10"
-  - icon: ion-ios-chatboxes-outline
-    name: Cups Of Coffee
-    count: "99"
-  - icon: icon-ios-stats-outline
+  - icon: icon-ios-bar-chart-outline
     name: Years in Business
     count: "45"
   - icon: ion-ios-compose-outline

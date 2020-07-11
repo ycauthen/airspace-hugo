@@ -99,6 +99,9 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
+icon = "ion-social-instagram-outline"
+link = ""
+[[params.social]]
 icon = "ion-social-googleplus-outline"
 link = "#"
 [[params.social]]

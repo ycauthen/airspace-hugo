@@ -65,7 +65,7 @@ mobile = "0124857985320"
 multi_author = false
 [params.gmap]
 enable = true
-gmap_api = "<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3148.6614065975646!2d-122.27971524835917!3d37.89160037963905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085794b1c5119a9%3A0xc71f0787f32b658b!2sRed%20Oak%20Realty!5e0!3m2!1sen!2sus!4v1594444168964!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>"
+gmap_api = <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3148.6614065975646!2d-122.27971524835917!3d37.89160037963905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085794b1c5119a9%3A0xc71f0787f32b658b!2sRed%20Oak%20Realty!5e0!3m2!1sen!2sus!4v1594444168964!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"

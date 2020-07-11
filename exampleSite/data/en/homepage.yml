@@ -12,10 +12,8 @@ banner:
     link: project
 about:
   enable: true
-  title: " Garabedian Associates"
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
+  title: About Us
+  description: ''
   content: 'Together, Sara and Tommy will grow their focus on residential, commercial,
     multifamily, and vacant land real estate sales including a highly specialized
     niche market of boutique development projects of 30 units and under.  '

@@ -3,8 +3,8 @@ banner:
   enable: true
   bg_image: images/dsc08311.jpg
   bg_overlay: false
-  title: "<br/><br><br><br>"
-  content: "<br/><br><br><br>"
+  title: "<p><br></p>"
+  content: "<p><br></p>"
   button:
     enable: false
     label: Discover Our Project

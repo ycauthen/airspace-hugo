@@ -26,8 +26,8 @@ URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
-URL = "Properties"
-name = "Project"
+URL = "Project"
+name = "properties"
 weight = 2
 [[menu.main]]
 URL = "service"

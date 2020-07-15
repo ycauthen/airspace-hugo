@@ -61,7 +61,7 @@ email = "thomasgarabedian@gmail.com"
 google_analitycs_id = ""
 location = "1891 Solano Ave, Berkeley, CA 94707"
 logo = "images/tommylogo.png"
-mobile = "510 499 1235"
+mobile = "5104991235"
 multi_author = false
 [params.gmap]
 enable = true

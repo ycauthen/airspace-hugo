@@ -35,6 +35,10 @@ portfolio:
     link: project
 service:
   enable: true
+contact: 
+  enable: true
+  title: contact
+  content: test widget add
 cta:
   enable: false
   bg_image: images/call-to-action-bg.jpg

@@ -46,6 +46,8 @@ cta:
     enable: true
     label: Tell Us Your Story
     link: contact
+contact:
+  enable: true
 funfacts:
   enable: true
   title: By The Numbers

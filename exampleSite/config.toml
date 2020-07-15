@@ -65,7 +65,7 @@ mobile = "5104991235"
 multi_author = false
 [params.gmap]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyC1C6Q7_sUDmRtp9LhawyLZlE_uvhUtsuY&callback=initMap"
+gmap_api = "https://maps.googleapis.com/maps/api/staticmap?center=40.714%2c%20-73.998&zoom=12&size=400x400&key=AIzaSyC1C6Q7_sUDmRtp9LhawyLZlE_uvhUtsuY"
 map_latitude = "37.891771"
 map_longitude = "-122.277390"
 map_marker = "images/marker.png"

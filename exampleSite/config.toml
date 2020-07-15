@@ -59,9 +59,9 @@ contact_form_action = "#"
 description = "Contact Us"
 email = "thomasgarabedian@gmail.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "1891 Solano Ave, Berkeley, CA 94707"
 logo = "images/tommylogo.png"
-mobile = "0124857985320"
+mobile = "(510) 499 1235"
 multi_author = false
 [params.gmap]
 enable = true

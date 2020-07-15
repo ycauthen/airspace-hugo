@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 title = "Tommy Real Estate Website"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Thomas Garabedian-Cone All Rights Reserved"
+copyright = "Copyright &copy; 2020 Thomas Garabedian-Cone. All Rights Reserved."
 home = ""
 languageCode = "en-us"
 languageName = "En"

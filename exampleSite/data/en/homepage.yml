@@ -35,6 +35,14 @@ portfolio:
     link: project
 service:
   enable: true
+  description: |-
+    We have a combined 35+ years of residential/commercial sales experience
+    specializing in West Oakland and Emeryville boutique development projects.
+    From18-unit warehouse conversion lofts to newly constructed townhome
+    communities, we work with developers to identify opportunities, acquire
+    properties, and ultimately market completed projects. We understand the
+    method, the means, and the market that lead to effective results.
+  title: Our Services
 cta:
   enable: false
   bg_image: images/call-to-action-bg.jpg

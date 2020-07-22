@@ -1,17 +1,19 @@
 ---
 about:
   enable: true
-  title: Creative UX/UI Design Agency
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
-    corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
-    ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
-    soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit maiores
-    sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis
-    doloribus natus nemo id quod illum aut culpa perspiciatis consequuntur tempore?
-    Facilis nam vitae iure quisquam eius harum consequatur sapiente assumenda, officia
-    voluptas quas numquam placeat, alias molestias nisi laudantium nesciunt perspiciatis
-    suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga
-    dolore officia adipisci neque!
+  title: 'LISTING AND MARKETING EXPERIENCE INCLUDES: '
+  content: |2-
+     BLUE CAP LOFTS: an 11-unit mixed-use warehouse conversion in West Oakland
+    • CIGAR FACTORY LOFTS: a 7-unit loft warehouse conversion in West Oakland
+    • WILLOW COURT LOFTS: an 18-unit loft warehouse conversion in West Oakland
+    • LINDEN TERRACE: an 8-unit townhouse project in West Oakland
+    • WEST STREET LOFTS: a 6-unit warehouse conversion in West Oakland
+    • MAGNOLIA LOFTS: a 12-unit warehouse conversion in West Oakland
+    • GATEWAY COMMONS: a 17-unit mixed-use project on the Oakland/Emeryville border
+    • The last 19 developer-held units of the 51-unit BESLER BUILDING LOFTS in Emeryville
+    • The last 7 developer-held HORTON ST. LOFTS in Emeryville
+    • Numerous condominium lofts in West Oakland including the FILBERT ST. LOFTS, CALOU
+    LOFTS, MYRTLE ST. STUDIOS, and BAYSIDE COURT LOFTS
   image: images/company/company-group-pic.jpg
 featured_service:
   enable: false

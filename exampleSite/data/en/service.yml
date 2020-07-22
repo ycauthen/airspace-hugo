@@ -36,9 +36,13 @@ featured_service:
 service:
   enable: true
   title: Our Services
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
+  description: |-
+    We have a combined 35+ years of residential/commercial sales experience
+    specializing in West Oakland and Emeryville boutique development projects.
+    From18-unit warehouse conversion lofts to newly constructed townhome
+    communities, we work with developers to identify opportunities, acquire
+    properties, and ultimately market completed projects. We understand the
+    method, the means, and the market that lead to effective results.
   service_item:
   - icon: ion-home
     name: Residential

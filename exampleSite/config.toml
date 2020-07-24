@@ -50,6 +50,14 @@ URL = "pricing"
 name = "Pricing"
 parent = "Pages"
 [[menu.main]]
+URL = "faq"
+name = "FAQ"
+parent = "Pages"
+[[menu.main]]
+URL = "faq"
+name = "FAQ"
+parent = "Pages"
+[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 6

@@ -39,7 +39,7 @@ name = "Blog"
 weight = 4
 [[menu.main]]
 hasChildren = true
-name = "Services"
+name = "Pages"
 weight = 5
 [[menu.main]]
 URL = "faq"

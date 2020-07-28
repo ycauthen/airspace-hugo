@@ -51,11 +51,11 @@ name = "Commercial"
 parent = "Pages"
 [[menu.main]]
 URL = "faq3"
-name = "FAQ3"
+name = "NEW CONSTRUCTION AND CONDO CONVERSIONS"
 parent = "Pages"
 [[menu.main]]
 URL = "faq4"
-name = "FAQ4"
+name = "MULTI-FAMILY"
 parent = "Pages"
 [[menu.main]]
 URL = "pricing"

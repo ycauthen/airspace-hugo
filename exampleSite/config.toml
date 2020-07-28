@@ -48,15 +48,15 @@ parent = "Pages"
 [[menu.main]]
 URL = "faq2"
 name = "FAQ2"
-weight = ""
+parent = "Pages"
 [[menu.main]]
 URL = "faq3"
 name = "FAQ3"
-weight = ""
+parent = "Pages"
 [[menu.main]]
 URL = "faq4"
 name = "FAQ4"
-weight = ""
+parent = "Pages"
 [[menu.main]]
 URL = "pricing"
 name = "Pricing"

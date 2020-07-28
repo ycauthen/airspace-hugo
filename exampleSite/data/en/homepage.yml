@@ -62,7 +62,7 @@ funfacts:
     right at the coast of the Semantics'"
   funfact_item:
   - icon: ion-ios-pie-outline
-    name: [Sales Volume](https://www.google.com)
+    name: Sales Volume
     count: "150"
   - icon: ion-ios-home-outline
     name: Transactions Closed

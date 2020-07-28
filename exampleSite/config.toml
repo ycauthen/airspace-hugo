@@ -22,10 +22,6 @@ weight = 2
 [menu]
 footer = []
 [[menu.main]]
-URL = "faq4"
-name = "FAQ4"
-weight = ""
-[[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
@@ -56,6 +52,10 @@ weight = ""
 [[menu.main]]
 URL = "faq3"
 name = "FAQ3"
+weight = ""
+[[menu.main]]
+URL = "faq4"
+name = "FAQ4"
 weight = ""
 [[menu.main]]
 URL = "pricing"

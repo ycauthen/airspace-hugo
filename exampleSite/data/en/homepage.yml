@@ -61,8 +61,8 @@ funfacts:
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
     right at the coast of the Semantics'"
   funfact_item:
-  - icon: [ion-ios-pie-outline](https://www.google.com)
-    name: Sales Volume
+  - icon: ion-ios-pie-outline
+    name: [Sales Volume](https://www.google.com)
     count: "150"
   - icon: ion-ios-home-outline
     name: Transactions Closed
